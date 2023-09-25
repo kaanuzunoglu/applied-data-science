@@ -1,3 +1,9 @@
+#terminal code-1 python3.8 -m pip install pandas dash
+#terminal code-2 wget "https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-DS0321EN-SkillsNetwork/datasets/spacex_launch_dash.csv"
+#terminal code-3 wget "https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-DS0321EN-SkillsNetwork/labs/module_3/spacex_dash_app.py"
+#terminal code-4 python3.8 spacex_dash_app.py
+
+
 # Import required libraries
 import pandas as pd
 import dash
